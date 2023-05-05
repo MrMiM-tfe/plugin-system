@@ -4,10 +4,14 @@
     plugin system example with typescript
 </h1>
 
-<h4 align="center">
+<h4 align="center" align-items="center">
     plugin system for ts and js files
     <br/>
     especially for express
+    <br/>
+    <br/>
+    <img src="assets/ts-icon.png" width="20"/>
+    <img src="assets/js-icon.png" width="20"/>
 </h4>
 
 ## about this code:
